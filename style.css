@@ -179,44 +179,44 @@ body {
 
 /* картинки */
 .angry {
-    background-image: url("/images/bg-wolves/Wolf_angry.jpg");
+    background-image: url("images/bg-wolves/Wolf_angry.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 
 }
 .wise {
-    background-image: url("/images/bg-wolves/wolf_wise.jpg");
+    background-image: url("images/bg-wolves/wolf_wise.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: -40px;
 }
 
 .alpha {
-    background-image: url("/images/bg-wolves/wolf-alpha.jpg");
+    background-image: url("images/bg-wolves/wolf-alpha.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 
 }
 .clown {
-    background-image: url("/images/bg-wolves/wolf-clown.jpg");
+    background-image: url("images/bg-wolves/wolf-clown.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 .cutie {
-    background-image: url("/images/bg-wolves/wolf-cutie.jpg");
+    background-image: url("images/bg-wolves/wolf-cutie.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 .nya {
-    background-image: url("/images/bg-wolves/wolf-nya.jpg");
+    background-image: url("images/bg-wolves/wolf-nya.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 .cry {
-    background-image: url("/images/bg-wolves/wolf-cry.jpg");
+    background-image: url("images/bg-wolves/wolf-cry.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 }
