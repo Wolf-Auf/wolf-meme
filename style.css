@@ -2,7 +2,7 @@
 
 
 body {
-    background-image: url("/images/body-background.avif");
+    background-image: url("images/body-background.avif");
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
